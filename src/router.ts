@@ -38,10 +38,10 @@ router.get('/clientes', verifyJWT, (request, response) => {
     console.log(request.userId + ' fez a requisicao');
     
     response.json([
-        { id: 1, nome: 'Wellington Santos' },
-        { id: 2, nome: 'Keila Morales' },
-        { id: 3, nome: 'Marcela Sofia' },
-        { id: 4, nome: 'Larissa Cecília' },
+        { id: 1, nome: 'Cliente A' },
+        { id: 2, nome: 'Cliente B' },
+        { id: 3, nome: 'Cliente C' },
+        { id: 4, nome: 'Cliente D' },
     ])
 })
 
