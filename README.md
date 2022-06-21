@@ -1,4 +1,4 @@
-# Biblioteca de livros
+# API com JSONWEBTOKEN
 <p align="center">API NodeJS com validação via jsonwebtoken</p>
 <hr>
 
