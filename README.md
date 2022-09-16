@@ -1,5 +1,5 @@
-# API com JSONWEBTOKEN
-<p align="center">API NodeJS com validação via jsonwebtoken</p>
+# App NodeJS e ReactJs com JSONWEBTOKEN
+<p align="center">API NodeJS com validação via jsonwebtoken e requisições http com ReactJS e Axios</p>
 <hr>
 
 ### ⚡ Tecnologias
@@ -9,6 +9,7 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/></td>
   <td>JWT</td>
+  <td>Axios</td>
  </tr>
 </table>
 <br>
